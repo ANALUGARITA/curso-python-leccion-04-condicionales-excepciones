@@ -1,4 +1,4 @@
-# Python - condicionales y manejo de excepciones
+# Python - condicionales y excepciones
 
 - [Condicionales]()
-- [Manejo de excepciones]()
+- [Excepciones]()
